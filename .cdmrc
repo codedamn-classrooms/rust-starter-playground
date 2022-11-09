@@ -1,0 +1,2 @@
+tabs: ["script.rs"]
+run-button: rustc script.rs && ./script
